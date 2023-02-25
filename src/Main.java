@@ -5,6 +5,7 @@ public class Main {
        int b = 8;
        int c = 10;
        System.out.println("Hello Everyone");
+       System.out.println("play Game");
 
     }
 }
